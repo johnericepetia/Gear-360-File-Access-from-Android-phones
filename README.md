@@ -10,7 +10,7 @@ Samsung Gear 360 (2017 version) File Access from Android phones - works on even 
 ## Aim of this project
 
 Samsung stopped supporting their great 360 degree camera Gear 360. And the official Samsung Android app for accessing files on the camwera from the phone is not working on Android 11 or later because of the storage permission requirements on Android 11.
-The official application still works for remote controlling the Gear 3460 camera, but as soon as we try to access the images or videos on camera the app crashes.
+The official application still works for remote controlling the Gear 360 camera, but as soon as we try to access the images or videos on camera the app crashes.
 
 With this mod, I provide a solution to access camera images and videos. The http server on camera (**part 1**) will serve the files on OSC (Streetview mode)
 And the android application will access the files, copy them to the phone. (**part 2**)
